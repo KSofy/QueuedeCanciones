@@ -37,8 +37,9 @@ Cola de Prioridad Normal: Almacena canciones con nivel 2.
 
 Lógica de salida: El reproductor vacía totalmente la cola de prioridad alta antes de procesar cualquier canción de la cola normal.
 
-🌟 Extensiones de Complejidad (Parte D)
+🌟 Extensiones de Complejidad 
 Se implementaron las siguientes mejoras para enriquecer la simulación:
+
 Barra de Progreso Visual: Durante la reproducción, se muestra una barra dinámica [#####-----] que se actualiza segundo a segundo en la consola.
 
 Reporte Final: Al terminar la lista, el sistema imprime el total de canciones reproducidas y el tiempo total de acumulado.
